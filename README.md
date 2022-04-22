@@ -1,1 +1,1 @@
-# Manual_testing_techniques
+Some of the testing techiques I'm learning and working on
